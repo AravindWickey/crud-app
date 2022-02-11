@@ -1,0 +1,15 @@
+[
+  {
+    "id": 1,
+    "fullName": "Aravindan",
+    "address": "Trichy",
+    "phoneNumber": "1234567890",
+    "email": "aravindan@gmail.com"
+  },
+  {
+    "id": 2,
+    "fullName": "Wickey",
+    "address": "Chennai",
+    "phoneNumber": "9876543210",
+    "email": "jessica.warren@email.com"
+  }]

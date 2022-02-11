@@ -1,0 +1,52 @@
+.app-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 1rem;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #3471c0;
+  text-align: left;
+  padding: 8px;
+  font-size: 32px;
+}
+
+th {
+  background-color: rgb(62, 86, 218);
+}
+
+td {
+  background-color: rgb(81, 152, 219);
+}
+
+form {
+  display: flex;
+  gap: 5px;
+}
+
+form td:last-child {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+form * {
+  font-size: 28px;
+  
+}
+
+#Add_User{
+  width: 100px;
+}
+
+.Buttons{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 100px;
+}
